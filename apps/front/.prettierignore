@@ -1,0 +1,9 @@
+/node_modules
+/.next
+/.swc
+/public
+
+README.md
+
+.gitignore
+.prettierignore
